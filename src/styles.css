@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+.ampopup-content {
+  background: rgba(255, 255, 255, 1)!important;
+  color: rgb(0, 0, 0)!important;
+  overflow: hidden!important;
+  position: fixed!important;
+}
+.ampopup-content .ampopup-inside {
+  overflow-y: auto!important;
+}
+.ampopup-content .ampopup-inside img {
+  max-width: 100%!important;
+}
